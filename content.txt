@@ -1,10 +1,3 @@
-IMAGE monstera.png
-
-Monstera
-
-Menu
-Opening hours
-Contact
 
 IMAGE cafe.jpg
 

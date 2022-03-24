@@ -1,18 +1,5 @@
 
-IMAGE cafe.jpg
 
-Menu
-Filter coffee
-Rotating brew
-$3.50
-
-Long black/Flat white
-Rotating brew
-$3.50
-
-Hot chocolate
-Milk or dark
-$3.50
 
 Opening hours
 Mon-Fri 0700-1500

@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;500&family=Lora&display=swap');
+
+:root{
+    /* Colours */
+    --colour-bg: rgb(244, 243, 249);
+    --colour-text: rgb(32,32,32);
+
+    /* Typography */
+    --font-display: 'Lora', serif;
+    --font-body: 'Josefin Sans', sans-serif; 
+}
+
+body{
+    background-color: var(--colour-bg);
+    color: var(--colour-text);  
+    font-family: var(--font-body);
+    text-align: center;
+}
+
+h1{
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    font-size: 5em;
+    margin: 0.4em;
+}
+
+h2{
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    font-size: 2.5em;
+    margin: 0.3em;
+}
+
+nav{
+    margin-bottom: 1em;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer{
+    margin-top:2em;
+    margin-bottom: 2em;
+}
+
+.navbar-menu{
+    font-size: 1.25em;
+    text-transform: uppercase;
+}
+
+.navbar-menu > li > a{
+    text-decoration-line :none;
+}
+.navbar-menu > li > a:visited{
+    color: var(--colour-text);
+
+}
+
+.navbar-menu > li + li{
+    margin-top: 0.5em;
+}
+
+.menu-list{
+    margin-bottom: 2em;
+}
+
+.menu-list > dt{
+    font-size: 1.6em;
+    margin-bottom: 0.2em;
+}
+
+.cafe-photo{
+    width:960px;
+}
+
+
+
+.menu-list > dd{
+    font-size: 1.2em;
+    font-weight: 300;
+}
+
+.menu-list > dd + dt{
+    margin-top: 1em;
+}
+
+
